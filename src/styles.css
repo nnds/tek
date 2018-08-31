@@ -5,7 +5,7 @@
 @import '~font-awesome/css/font-awesome.min.css';
 @import "../src/assets/css/AdminLTE.css";
 @import "~ng-pick-datetime/assets/style/picker.min.css";
-@import url(http://fonts.googleapis.com/css?family=Raleway:400,300,500,600,700,800);
+@import url(http://fonts.googleapis.com/css?family=Roboto:400,300,500,600,700,800);
 * {
     margin: 0px;
     padding: 0px;
@@ -165,6 +165,11 @@ b {
 
 .space20 {
     width: 60%;
+}
+
+.fa {
+    padding-right: 5px;
+    padding-left: 5px;
 }
 
 
